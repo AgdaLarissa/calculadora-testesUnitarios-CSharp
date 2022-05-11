@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/agda_larissa/.dotnet/store/|arch|/|tfm|",
+      "/home/agda_larissa/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/agda_larissa/Documentos/Projetos/CalculadoraSolucao/Calculadora/Calculadora.csproj": {}
+  },
+  "projects": {
+    "/home/agda_larissa/Documentos/Projetos/CalculadoraSolucao/Calculadora/Calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/agda_larissa/Documentos/Projetos/CalculadoraSolucao/Calculadora/Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "/home/agda_larissa/Documentos/Projetos/CalculadoraSolucao/Calculadora/Calculadora.csproj",
+        "packagesPath": "/home/agda_larissa/.nuget/packages/",
+        "outputPath": "/home/agda_larissa/Documentos/Projetos/CalculadoraSolucao/Calculadora/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/agda_larissa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.412/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
