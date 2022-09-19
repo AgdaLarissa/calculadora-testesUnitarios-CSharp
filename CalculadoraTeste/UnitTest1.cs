@@ -6,7 +6,7 @@ namespace CalculadoraTeste
     public class UnitTest1
     {
         [Theory]
-        [InlineData(1,2,3)]
+        [InlineData(1,2,3)] 
         [InlineData(2,2,4)] 
         public void TesteSoma(float valor1, float valor2, float resultadoEsperado)
         {
